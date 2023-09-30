@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-project",
+  "version": "1.0.0",
+  "description": "Pokemon card is generated every time we hit the generate button",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Sulyakodi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
